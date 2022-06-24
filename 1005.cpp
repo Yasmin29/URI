@@ -3,9 +3,6 @@
 using namespace std;
 
 int main(){
-
-
-
     double A, B, MEDIA;
     cout << fixed << setprecision(5);
     cin >> A >> B;
